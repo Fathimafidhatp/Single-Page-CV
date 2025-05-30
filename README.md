@@ -2,6 +2,6 @@
 
 
 This is a simple single-page CV website built using HTML and CSS.
-## 🔗 Live Project URL
+## 🔗 Live Project URL  
+[View the Project Here](https://fathimafidhatp.github.io/Single-Page-CV/)
 
-[Click here to view the CV Page]([https://fathimafidhatp.github.io/Single-Page-CV/])
